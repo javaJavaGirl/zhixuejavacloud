@@ -1,7 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d54654af-a40e-4bb6-bed5-50ed1b52f789" name="Default Changelist" comment="" />
+    <list default="true" id="06e3f0b2-0e7f-46f7-a953-ccf13b18a9aa" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_afterburner_2_8_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_hystrix_hystrix_javanica_1_5_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_hystrix_hystrix_metrics_event_stream_1_5_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_hystrix_hystrix_serialization_1_5_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_aspectj_aspectjweaver_1_8_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_hystrix_1_3_0_RC1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/zhixuejavacloud.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/serice-feign/src/main/java/com/zhixuejava/cloud/HiController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/serice-feign/src/main/java/com/zhixuejava/cloud/SchedualServiceHi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service-ribbon/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/service-ribbon/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service-ribbon/src/main/java/com/zhixuejava/cloud/HelloService.java" beforeDir="false" afterPath="$PROJECT_DIR$/service-ribbon/src/main/java/com/zhixuejava/cloud/HelloService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service-ribbon/src/main/java/com/zhixuejava/cloud/ServiceRibbonApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/service-ribbon/src/main/java/com/zhixuejava/cloud/ServiceRibbonApplication.java" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,10 +43,20 @@
     <expand />
     <select />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
-        <option name="mavenHome" value="$PROJECT_DIR$/../tools/apache-maven-3.6.0" />
         <option name="userSettingsFile" value="D:\repository\settings.xml" />
       </MavenGeneralSettings>
     </option>
@@ -35,7 +66,7 @@
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="ProjectId" id="1UEkcM3egTBmA10u4FGfvRf2ivo" />
+  <component name="ProjectId" id="1UaaLZj2PU970OYWRUevOczizA5" />
   <component name="PropertiesComponent">
     <property name="RequestMappingsPanelOrder0" value="0" />
     <property name="RequestMappingsPanelOrder1" value="1" />
@@ -43,24 +74,21 @@
     <property name="RequestMappingsPanelWidth0" value="75" />
     <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="RequestMappingsPanelWidth2" value="75" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="F:/scc/ideaWorkspace" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/serice-feign" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+    <property name="settings.editor.selected.configurable" value="fileTemplates" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\zhixuejava\eureka-client-two\src\main\resources" />
-      <recent name="D:\zhixuejava\eureka-server\src\main\resources" />
+      <recent name="D:\zhixuejavacloud\serice-feign" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -75,37 +103,10 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Spring Boot.ServiceRibbonApplication">
-    <configuration name="EurekaClientApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.zhixuejava.eurekaclient.EurekaClientApplication" />
-      <module name="eureka-client" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.zhixuejava.eurekaclient.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="CloudtestApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
-      <module name="zhixuejava" />
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.zhixuejava.cloudtest.CloudtestApplication" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Spring Boot.EurekaClientApplication">
     <configuration name="EurekaClientApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="eureka-client" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.zhixuejava.eurekaclient.EurekaClientApplication" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="EurekaClientTowApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
-      <module name="eureka-client-two" />
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.zhixuejava.cloud.EurekaClientTowApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -138,29 +139,36 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Application.EurekaClientApplication" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="d54654af-a40e-4bb6-bed5-50ed1b52f789" name="Default Changelist" comment="" />
-      <created>1574929220602</created>
+      <changelist id="06e3f0b2-0e7f-46f7-a953-ccf13b18a9aa" name="Default Changelist" comment="" />
+      <created>1575597104937</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1574929220602</updated>
-      <workItem from="1574929225386" duration="5067000" />
-      <workItem from="1574935617121" duration="28158000" />
-      <workItem from="1575508026053" duration="17180000" />
+      <updated>1575597104937</updated>
+      <workItem from="1575597106433" duration="1514000" />
+      <workItem from="1575599137104" duration="6716000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

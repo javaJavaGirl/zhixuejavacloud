@@ -7,7 +7,7 @@
       <module fileurl="file://$PROJECT_DIR$/eureka-server/eureka-server.iml" filepath="$PROJECT_DIR$/eureka-server/eureka-server.iml" />
       <module fileurl="file://$PROJECT_DIR$/serice-feign/serice-feign.iml" filepath="$PROJECT_DIR$/serice-feign/serice-feign.iml" />
       <module fileurl="file://$PROJECT_DIR$/service-ribbon/service-ribbon.iml" filepath="$PROJECT_DIR$/service-ribbon/service-ribbon.iml" />
-      <module fileurl="file://$PROJECT_DIR$/zhixuejava.iml" filepath="$PROJECT_DIR$/zhixuejava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/zhixuejavacloud.iml" filepath="$PROJECT_DIR$/.idea/zhixuejavacloud.iml" />
     </modules>
   </component>
 </project>

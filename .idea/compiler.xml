@@ -6,32 +6,20 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="eureka-client" />
         <module name="eureka-server" />
         <module name="eureka-client-two" />
-        <module name="eureka-client" />
         <module name="serice-feign" />
         <module name="service-ribbon" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="cloudtest" target="1.8" />
       <module name="eureka-client" target="1.8" />
       <module name="eureka-client-two" target="1.8" />
       <module name="eureka-server" target="1.8" />
       <module name="serice-feign" target="1.8" />
       <module name="service-ribbon" target="1.8" />
-      <module name="zhixuejava" target="1.8" />
+      <module name="zhixuejavacloud" target="1.8" />
     </bytecodeTargetLevel>
-  </component>
-  <component name="JavacSettings">
-    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
-      <module name="cloudtest" options="-parameters" />
-      <module name="eureka-client" options="" />
-      <module name="eureka-client-two" options="" />
-      <module name="eureka-server" options="" />
-      <module name="serice-feign" options="" />
-      <module name="service-ribbon" options="" />
-      <module name="zhixuejava" options="" />
-    </option>
   </component>
 </project>
