@@ -2,26 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="06e3f0b2-0e7f-46f7-a953-ccf13b18a9aa" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_afterburner_2_8_8.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_hystrix_hystrix_javanica_1_5_10.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_hystrix_hystrix_metrics_event_stream_1_5_10.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_hystrix_hystrix_serialization_1_5_10.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_aspectj_aspectjweaver_1_8_10.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_hystrix_1_3_0_RC1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/zhixuejavacloud.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/serice-feign/src/main/java/com/zhixuejava/cloud/HiController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/serice-feign/src/main/java/com/zhixuejava/cloud/SchedualServiceHi.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_netflix_hystrix_dashboard_1_3_0_RC1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_hystrix_dashboard_1_3_0_RC1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_webjars_d3js_3_4_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_webjars_jquery_2_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/serice-feign/src/main/java/com/zhixuejava/cloud/SchedualServiceHiErrorService.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/service-ribbon/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/service-ribbon/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/service-ribbon/src/main/java/com/zhixuejava/cloud/HelloService.java" beforeDir="false" afterPath="$PROJECT_DIR$/service-ribbon/src/main/java/com/zhixuejava/cloud/HelloService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/service-ribbon/src/main/java/com/zhixuejava/cloud/ServiceRibbonApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/service-ribbon/src/main/java/com/zhixuejava/cloud/ServiceRibbonApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/serice-feign/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/serice-feign/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/serice-feign/src/main/java/com/zhixuejava/cloud/HiController.java" beforeDir="false" afterPath="$PROJECT_DIR$/serice-feign/src/main/java/com/zhixuejava/cloud/HiController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/serice-feign/src/main/java/com/zhixuejava/cloud/SchedualServiceHi.java" beforeDir="false" afterPath="$PROJECT_DIR$/serice-feign/src/main/java/com/zhixuejava/cloud/SchedualServiceHi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/serice-feign/src/main/java/com/zhixuejava/cloud/SericeFeignApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/serice-feign/src/main/java/com/zhixuejava/cloud/SericeFeignApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/serice-feign/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/serice-feign/src/main/resources/application.yml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -84,6 +75,8 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="fileTemplates" />
   </component>
   <component name="RecentsManager">
@@ -151,8 +144,16 @@
       <option name="presentableId" value="Default" />
       <updated>1575597104937</updated>
       <workItem from="1575597106433" duration="1514000" />
-      <workItem from="1575599137104" duration="6716000" />
+      <workItem from="1575599137104" duration="15776000" />
     </task>
+    <task id="LOCAL-00001" summary="熔断器Hystrix">
+      <created>1575613736849</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1575613736849</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -170,5 +171,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="熔断器Hystrix" />
+    <option name="LAST_COMMIT_MESSAGE" value="熔断器Hystrix" />
   </component>
 </project>

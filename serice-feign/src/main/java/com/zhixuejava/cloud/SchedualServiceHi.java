@@ -11,7 +11,7 @@ import org.springframework.web.bind.annotation.RequestParam;
  * @date 2019/12/6 11:00
  * 请给我支付宝打点钱@微信官方
  */
-@FeignClient(value = "iamclient")
+@FeignClient(value = "iamclient",fallback = SchedualServiceHiErrorService.class)
 public interface SchedualServiceHi {
 
         @RequestMapping(value = "/hi",method = RequestMethod.GET)
