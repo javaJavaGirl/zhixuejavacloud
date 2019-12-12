@@ -2,17 +2,35 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="06e3f0b2-0e7f-46f7-a953-ccf13b18a9aa" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_netflix_hystrix_dashboard_1_3_0_RC1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_hystrix_dashboard_1_3_0_RC1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_webjars_d3js_3_4_11.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_webjars_jquery_2_1_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/serice-feign/src/main/java/com/zhixuejava/cloud/SchedualServiceHiErrorService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_zuul_zuul_core_1_3_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_io_commons_io_2_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_zuul_1_3_0_RC1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config-sever/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config-sever/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config-sever/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config-sever/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config-sever/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config-sever/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config-sever/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config-sever/src/main/java/com/zhixuejava/cloud/ConfigSeverApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config-sever/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service-zuul/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service-zuul/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service-zuul/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service-zuul/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service-zuul/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service-zuul/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service-zuul/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service-zuul/src/main/java/com/zhixuejava/cloud/MyFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service-zuul/src/main/java/com/zhixuejava/cloud/ServiceZuulApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service-zuul/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zuul网关路由处理生命周期.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/serice-feign/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/serice-feign/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/serice-feign/src/main/java/com/zhixuejava/cloud/HiController.java" beforeDir="false" afterPath="$PROJECT_DIR$/serice-feign/src/main/java/com/zhixuejava/cloud/HiController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/serice-feign/src/main/java/com/zhixuejava/cloud/SchedualServiceHi.java" beforeDir="false" afterPath="$PROJECT_DIR$/serice-feign/src/main/java/com/zhixuejava/cloud/SchedualServiceHi.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/serice-feign/src/main/java/com/zhixuejava/cloud/SericeFeignApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/serice-feign/src/main/java/com/zhixuejava/cloud/SericeFeignApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/serice-feign/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/serice-feign/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -58,7 +76,11 @@
     </option>
   </component>
   <component name="ProjectId" id="1UaaLZj2PU970OYWRUevOczizA5" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RequestMappingsPanelOrder0" value="0" />
     <property name="RequestMappingsPanelOrder1" value="1" />
     <property name="RequestMappingsPanelOrder2" value="2" />
@@ -68,7 +90,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/serice-feign" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -81,6 +103,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\zhixuejavacloud" />
       <recent name="D:\zhixuejavacloud\serice-feign" />
     </key>
   </component>
@@ -96,7 +119,14 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Spring Boot.EurekaClientApplication">
+  <component name="RunManager" selected="Spring Boot.ServiceZuulApplication">
+    <configuration name="ConfigSeverApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="config-sever" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.zhixuejava.cloud.ConfigSeverApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="EurekaClientApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="eureka-client" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.zhixuejava.eurekaclient.EurekaClientApplication" />
@@ -132,6 +162,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ServiceZuulApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="service-zuul" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.zhixuejava.cloud.ServiceZuulApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -144,7 +181,7 @@
       <option name="presentableId" value="Default" />
       <updated>1575597104937</updated>
       <workItem from="1575597106433" duration="1514000" />
-      <workItem from="1575599137104" duration="15776000" />
+      <workItem from="1575599137104" duration="32575000" />
     </task>
     <task id="LOCAL-00001" summary="熔断器Hystrix">
       <created>1575613736849</created>
@@ -153,7 +190,14 @@
       <option name="project" value="LOCAL" />
       <updated>1575613736849</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Hystrix Dashboard (断路器：Hystrix 仪表盘)">
+      <created>1575626554828</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1575626554828</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -173,7 +217,9 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="熔断器Hystrix" />
-    <option name="LAST_COMMIT_MESSAGE" value="熔断器Hystrix" />
+    <MESSAGE value="Hystrix Dashboard (断路器：Hystrix 仪表盘)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Hystrix Dashboard (断路器：Hystrix 仪表盘)" />
   </component>
 </project>
